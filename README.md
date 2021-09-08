@@ -9,4 +9,4 @@ https://www.coursera.org/account/accomplishments/certificate/CNPQS435X8NF
 🌸 Make a video game with Unity.
 https://santiago-lucero.itch.io/icaro
 
-🤖 I have knowledge with the Discord API and handling of Bots with Python. (Check my repositorie!)
+🤖 I have knowledge with the Discord API and handling of Bots with Python. (Check my repository!)
