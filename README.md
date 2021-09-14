@@ -6,7 +6,7 @@
 👨‍🏫 Complete a Google & Coursera Course about Python.
 https://www.coursera.org/account/accomplishments/certificate/CNPQS435X8NF
 
-🌸 I make a video game with Unity.
+🌸 I maked a video game with Unity.
 https://santiago-lucero.itch.io/icaro
 
 🤖 I have knowledge with the Discord API and handling of Bots with Python.
