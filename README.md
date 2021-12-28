@@ -1,7 +1,7 @@
 
 🛰️ Hi! Im Santiago Lucero, I am studying telecommunications engineering at the National University of Rio Cuarto (Argentina).
 
-💻 I have knowledge of python, C and C#. 
+💻 I have knowledge of Python, C and C#. 
 
 👨‍🏫 Complete a Google & Coursera Course about Python.
 https://www.coursera.org/account/accomplishments/certificate/CNPQS435X8NF
