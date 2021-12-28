@@ -11,3 +11,5 @@ https://santiago-lucero.itch.io/icaro
 
 🤖 I have knowledge with the Discord API and handling of Bots with Python.
 https://github.com/santilucero1/Python-Discord-Bot-local-mp3-voice-channel-player
+
+🧠 I am currently learning Html and Css!
