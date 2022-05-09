@@ -4,7 +4,7 @@
 
 ## Knowledge
 
-💻 Python, C, C#, Sql, Html, Css, Unity, Discord Api
+💻 Python, C, C#, Sql, Html, Css, Unity, Discord Api, OpenCv
 
 🧙 I am currently learning Django!
 
