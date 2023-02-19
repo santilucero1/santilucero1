@@ -4,7 +4,7 @@
 
 ## Knowledge
 
-💻 Python, C, C#, Sql, Html, Css, Unity, Discord Api, OpenCv & Tensor Flow
+💻 Python, C, C#, Basic Html & Css, Unity, Discord Api, OpenCv & Tensor Flow
 
 🌸 I maked a video game! 
 https://santiago-lucero.itch.io/icaro
