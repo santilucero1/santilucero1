@@ -1,9 +1,10 @@
 ## Welcome!
 
-🛰️ Hi! Im Santiago Lucero, I am studying telecommunications engineering at the National University of Rio Cuarto (Argentina).
+🛰️ Hi! Im Santiago Lucero, I am studying IT at the National University of Rio Cuarto (Argentina).
 
-## Knowledge
+### Knowledge
 
+## Languages
 💻 Python, C, C#, Basic Html & Css, Unity, Discord Api, OpenCv & Tensor Flow
 
 🌸 I maked a video game! 
