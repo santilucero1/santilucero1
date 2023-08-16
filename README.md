@@ -12,6 +12,8 @@
 
 🌃 Basic Html & Css.
 
+🐬 Basic Sql
+
 🤖 Arduino.
 
 
