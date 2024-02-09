@@ -10,7 +10,7 @@
  
 🎮 Unity, Discord Api.
 
-🌃 Basic Html & Css.
+🌃 Html & Css.
 
 🐬 Basic Sql
 
