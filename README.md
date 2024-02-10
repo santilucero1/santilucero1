@@ -4,13 +4,13 @@
 
 ## Knowledge
 
-💻 Python, C, C#, JavaScript. 
+💻 Python, C, C#, JavaScript.
+
+🌃 Html & Css.
 
 🏕️ OpenCv & Tensor Flow.
  
 🎮 Unity, Discord Api.
-
-🌃 Html & Css.
 
 🐬 Basic Sql
 
